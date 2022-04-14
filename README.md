@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bmugwe
-- 👀 I’m interested in Python, ReactJs, NodeJS, Ruby
+- 👀 I’m interested in Python, ReactJs, Remixrun, JavaScript
 - 🌱 I’m currently learning ReactJs
 - 💞️ I’m looking to collaborate on Health System, ERP
 - 📫 How to reach me Ping me.
